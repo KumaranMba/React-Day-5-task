@@ -86,7 +86,7 @@ function App(){
 
 
     <section className="py-5">
-      <div className="container border">
+      <div className="container">
         <div className="row gx-4 gx-lg-5 row-cols-1 row-cols-md-2 row-cols-xl-3">
           <div className="col d-flex w-100 justify-content-between">
             <h5>MyTodos</h5>
